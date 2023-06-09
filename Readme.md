@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Мирлан Сейталиев](https://up.htmlacademy.ru/javascript/29/user/1543995).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Шишлянников](https://up.htmlacademy.ru/profession/frontender/16/javascript/29/user/1082173).
 
 ---
 
